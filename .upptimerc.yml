@@ -5,4 +5,6 @@ sites: # List of endpoints to track
     url: https://www.google.com
 assignees: # Users to assign downtime issues (optional)
   - Gourab28
-status-website: # Status website (optional)
+status-website:
+  baseUrl: /server-monitor # where "repo" is your repository name
+  name: RiskDice
