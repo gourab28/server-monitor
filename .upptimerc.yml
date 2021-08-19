@@ -4,7 +4,7 @@ sites: # List of endpoints to track
   - name: RiskDice-Frontend
     url: https://riskyourbag.com
    - name: RiskDice-Backend
-    url: http://riskyourbag.com:5000/
+    url: https://Google.com
 assignees: # Users to assign downtime issues (optional)
   - Gourab28
 status-website:
