@@ -1,8 +1,8 @@
 owner: Gourab28 # GitHub username
 repo: server-monitor # GitHub repository name
 sites: # List of endpoints to track
-  - name: Google
-    url: https://www.google.com
+  - name: RiskDice-Frontend
+    url: https://riskyourbag.com
 assignees: # Users to assign downtime issues (optional)
   - Gourab28
 status-website:
