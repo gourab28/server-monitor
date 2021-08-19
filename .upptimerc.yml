@@ -3,6 +3,8 @@ repo: server-monitor # GitHub repository name
 sites: # List of endpoints to track
   - name: RiskDice-Frontend
     url: https://riskyourbag.com
+   - name: RiskDice-Backend
+    url: http://128.199.105.114:5000/
 assignees: # Users to assign downtime issues (optional)
   - Gourab28
 status-website:
