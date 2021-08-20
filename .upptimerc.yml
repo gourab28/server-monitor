@@ -7,7 +7,7 @@ sites:
   - name: RiskYourBag.Com
     url: https://riskyourbag.com
   - name: Risk Server
-    url: http://128.199.105.114:5000/
+    url: http://api.riskyourbag.com
 
 
 status-website:
