@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 728,
-    "timeDay": 728,
-    "timeWeek": 728,
-    "timeMonth": 728,
-    "timeYear": 728,
+    "time": 723,
+    "timeDay": 723,
+    "timeWeek": 723,
+    "timeMonth": 723,
+    "timeYear": 723,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/128.199.105.114",
     "slug": "risk-server",
     "status": "up",
-    "uptime": "98.01%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "98.01%",
-    "uptimeMonth": "98.01%",
-    "uptimeYear": "98.01%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 407,
     "timeDay": 407,
     "timeWeek": 407,
     "timeMonth": 407,
     "timeYear": 407,
-    "dailyMinutesDown": {
-      "2021-08-19": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
