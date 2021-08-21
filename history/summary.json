@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/riskyourbag.com",
     "slug": "risk-your-bag-com",
     "status": "down",
-    "uptime": "95.98%",
-    "uptimeDay": "94.27%",
-    "uptimeWeek": "95.98%",
-    "uptimeMonth": "95.98%",
-    "uptimeYear": "95.98%",
+    "uptime": "81.62%",
+    "uptimeDay": "69.21%",
+    "uptimeWeek": "81.62%",
+    "uptimeMonth": "81.62%",
+    "uptimeYear": "81.62%",
     "time": 707,
-    "timeDay": 687,
+    "timeDay": 682,
     "timeWeek": 707,
     "timeMonth": 707,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2021-08-20": 83
+      "2021-08-21": 38,
+      "2021-08-20": 405
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/api.riskyourbag.com",
     "slug": "risk-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "85.04%",
+    "uptimeDay": "74.93%",
+    "uptimeWeek": "85.04%",
+    "uptimeMonth": "85.04%",
+    "uptimeYear": "85.04%",
     "time": 490,
-    "timeDay": 571,
+    "timeDay": 1068,
     "timeWeek": 490,
     "timeMonth": 490,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2021-08-20": 0
+      "2021-08-21": 38,
+      "2021-08-20": 323
     }
   }
 ]
