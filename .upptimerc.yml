@@ -4,11 +4,14 @@ repo: server-monitor # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: RiskYourBag.Com
-    url: https://riskyourbag.com
-  - name: Risk Server
-    url: http://api.riskyourbag.com
-
+  - name: CroSea.io
+    url: https://crosea.io
+  - name: RPC1
+    url: https://mainnet.crosea.io/rpc1
+  - name: RPC2
+    url: https://mainnet.crosea.io/rpc2
+  - name: RPC3
+    url: https://mainnet.crosea.io/rpc3
 
 status-website:
   baseUrl: /server-monitor # where "repo" is your repository name
